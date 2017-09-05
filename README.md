@@ -20,3 +20,5 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * friend function
 * unions
 
+### Greate source
+https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
