@@ -7,7 +7,7 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * overloaded assignment operator
 * linked list
 * static list
-* virtual functions + virtual tables
+* WIP: virtual functions + virtual tables 
 * virtual destructor
 * abstract classes
 * aggregation
