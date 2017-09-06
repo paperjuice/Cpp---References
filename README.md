@@ -9,7 +9,6 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * static list
 * WIP: virtual functions + virtual tables 
 * virtual destructor
-* abstract classes
 * aggregation
 * concept of slicing
 * templates ( variadic as well)
@@ -23,7 +22,7 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 It has no user-declared constructors, no private nor protected non-static data, no bases and no virtual functions
 
 ### Greate source
-https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
+https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm</br>
 http://www.geeksforgeeks.org/c-plus-plus/
 
 
