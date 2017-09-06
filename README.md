@@ -8,14 +8,12 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * linked list
 * WIP: virtual functions + virtual tables 
 * virtual destructor
-* aggregation
 * concept of slicing
 * templates ( variadic as well)
 * lambda
 * exceptions
 * const usage
-* algorithm complexity
-* unions
+
 
 ### Aggregate 
 It has no user-declared constructors, no private nor protected non-static data, no bases and no virtual functions
