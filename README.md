@@ -17,7 +17,6 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * exceptions
 * const usage
 * algorithm complexity
-* friend function
 * unions
 
 ### Greate source
