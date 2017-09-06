@@ -6,7 +6,6 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 ### List of items that need to be added:
 * overloaded assignment operator
 * linked list
-* static list
 * WIP: virtual functions + virtual tables 
 * virtual destructor
 * aggregation
