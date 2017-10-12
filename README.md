@@ -11,7 +11,6 @@ In here are small snipets of code that will help me refresh knowledge.</br>
 * templates ( variadic as well)
 * lambda
 * exceptions
-* const usage
 
 
 ### Aggregate 
